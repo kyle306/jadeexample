@@ -5,8 +5,8 @@ HelloWorldSchema subschemaOf RootSchema completeDefinition;
 constantDefinitions
 	categoryDefinition Manufacture
 		setModifiedTimeStamp "Wei.He" "22.0.02" 2026:04:07:15:22:51.497;
-		Seperation:                    String = "# ";
-		setModifiedTimeStamp "Wei.He" "22.0.02" 2026:04:07:15:28:44.302;
+		Seperation:                    String = "## ";
+		setModifiedTimeStamp "Wei.He" "22.0.02" 2026:04:07:17:23:48.974;
 localeDefinitions
 	1033 "English (United States)" schemaDefaultLocale;
 	setModifiedTimeStamp "Wei.He" "22.0.02" 2026:04:07:14:03:18.104;
